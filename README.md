@@ -4,6 +4,22 @@
 ## Objective
 My journey in self-learning about cybersecurity has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst or any junior cybersecurity roles.
 
+My name objective for this landing page is to showcase my networking and cybersecurity homellab projects.
+
+## Certifications
+[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+<div>
+<a href="https://cp.certmetrics.com/cisco/en/public/verify/credential/16591cc7f86941f9987670b13902385e"><img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<a href="https://cp.certmetrics.com/cisco/en/public/verify/credential/16591cc7f86941f9987670b13902385e"><img src="https://img.shields.io/badge/-CCNA-1E90FF?&style=for-the-badge&logo=Cisco&logoColor=white" />
+<a href="https://cs50.harvard.edu/certificates/05d981fa-3f62-427f-bdd2-f481c3e2edbb"><img src="https://img.shields.io/badge/-CS50's%20Introduction%20to%20Programming%20with%20Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
+<a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-PYLN7KKTO8.png"><img src="https://img.shields.io/badge/-TryHackMe's%20Introduction%20to%20Cyber%20Security-007ACC?&style=for-the-badge&logo=TryHackMe&logoColor=white" />
+<a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-MADTSI6GJO.png"><img src="https://img.shields.io/badge/-TryHackMe's%20Pre%20Security-DC143C?&style=for-the-badge&logo=TryHackMe&logoColor=white" />
+</div>
+
+## Projects
+- Detection Lab
+- SOC Automation Project
+
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
@@ -38,17 +54,3 @@ My journey in self-learning about cybersecurity has led me to develop a passion 
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
-
-## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
-<div>
-<a href="https://cp.certmetrics.com/cisco/en/public/verify/credential/16591cc7f86941f9987670b13902385e"><img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<a href="https://www.linkedin.com/in/azrul-zaini-1171852b7/"><img src="https://img.shields.io/badge/-CCNA-1E90FF?&style=for-the-badge&logo=Cisco&logoColor=white" />
-<a href="https://cs50.harvard.edu/certificates/05d981fa-3f62-427f-bdd2-f481c3e2edbb"><img src="https://img.shields.io/badge/-CS50's%20Introduction%20to%20Programming%20with%20Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
-
-
-</div>
-
-## Projects
-- Detection Lab
-- SOC Automation Project
